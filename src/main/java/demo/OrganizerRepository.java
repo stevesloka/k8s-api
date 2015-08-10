@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
 
-public interface CustomerRepository extends CrudRepository<Organizer, Long> {
+public interface OrganizerRepository extends CrudRepository<Organizer, Long> {
 
     List<Organizer> findByLastName(String lastName);
 }
