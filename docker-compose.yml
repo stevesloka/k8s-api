@@ -1,0 +1,4 @@
+db:
+  image: stevesloka/mysql
+  ports:
+    - "3307:3306"
