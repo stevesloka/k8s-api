@@ -1,7 +1,7 @@
-INSERT INTO demo_db.organizer (first_name, last_name) VALUES ('Andrew', 'Shafer');
-INSERT INTO demo_db.organizer (first_name, last_name) VALUES ('Chris', 'Luciano');
-INSERT INTO demo_db.organizer (first_name, last_name) VALUES ('Colin', 'Dean');
-INSERT INTO demo_db.organizer (first_name, last_name) VALUES ('Daniel', 'Buch');
-INSERT INTO demo_db.organizer (first_name, last_name) VALUES ('Roy', 'Liu');
-INSERT INTO demo_db.organizer (first_name, last_name) VALUES ('Seth', 'Vargo');
-INSERT INTO demo_db.organizer (first_name, last_name) VALUES ('Jennifer', 'Manning');
+INSERT INTO demo_db.organizer (first_name, last_name) VALUES ('Brian', 'Prince');
+INSERT INTO demo_db.organizer (first_name, last_name) VALUES ('Jason', 'Follas');
+INSERT INTO demo_db.organizer (first_name, last_name) VALUES ('Rob', 'Gillen');
+INSERT INTO demo_db.organizer (first_name, last_name) VALUES ('Christopher', 'Judd');
+INSERT INTO demo_db.organizer (first_name, last_name) VALUES ('Greg', 'Huber');
+INSERT INTO demo_db.organizer (first_name, last_name) VALUES ('Matt', 'Brewer');
+INSERT INTO demo_db.organizer (first_name, last_name) VALUES ('Scott', 'Z.');
