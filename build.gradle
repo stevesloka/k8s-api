@@ -6,7 +6,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}") 
+        classpat("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
         classpath("io.spring.gradle:dependency-management-plugin:0.5.2.RELEASE")
     }
 }
@@ -49,4 +49,5 @@ eclipse {
 
 task wrapper(type: Wrapper) {
     gradleVersion = '2.3'
+    distrubutionUrl = 'http://services.gradle.org/distributions/gradle-2.3-bin.zip'
 }
