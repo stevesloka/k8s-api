@@ -1,6 +1,7 @@
 buildscript {
     ext {
         springBootVersion = '1.2.5.RELEASE'
+        gradleVersion = '2.3'
     }
     repositories {
         mavenCentral()
@@ -48,6 +49,5 @@ eclipse {
 }
 
 task wrapper(type: Wrapper) {
-    gradleVersion = '2.3'
     distributionUrl = 'http://services.gradle.org/distributions/gradle-2.3-bin.zip'
 }
