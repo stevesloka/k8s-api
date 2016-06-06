@@ -1,2 +1,4 @@
+image: hypriot/rpi-java:1.8.0
+
 job:
   script: "./gradlew clean build"
