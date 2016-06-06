@@ -49,5 +49,5 @@ eclipse {
 
 task wrapper(type: Wrapper) {
     gradleVersion = '2.3'
-    distrubutionUrl = 'http://services.gradle.org/distributions/gradle-2.3-bin.zip'
+    distributionUrl = 'http://services.gradle.org/distributions/gradle-2.3-bin.zip'
 }
